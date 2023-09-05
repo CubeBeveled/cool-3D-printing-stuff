@@ -1,0 +1,13 @@
+{
+    "genType": "random point cloud",
+    "heatNozzle":false,
+    "heatBed":false,
+    "safety": true,
+    "fanSpeed": 255,
+    "nozzleTemp":200,
+    "bedTemp":60,
+    "x": 220,
+    "y": 220,
+    "z": 250,
+    "pointCloudNumber": 10
+}
